@@ -99,4 +99,4 @@ npm run dev
 倉庫主管 → Supply Chain AI Engineer  
 熟悉電商倉儲實際作業，同時具備 AI 工具開發能力。
 
-[LinkedIn](#) | [GitHub](https://github.com/sherry0936671026-oss)
+[LinkedIn](www.linkedin.com/in/sherry-liu-356a41405) | [GitHub](https://github.com/sherry0936671026-oss)
